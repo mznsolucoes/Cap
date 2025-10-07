@@ -33,7 +33,7 @@
     "@types/react-dom": "latest",
     "dotenv-cli": "latest",
     "drizzle-kit": "0.31.0",
-    "nodemailer": "^6.9.8",
+    "nodemailer": "^7.0.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.18.0",
