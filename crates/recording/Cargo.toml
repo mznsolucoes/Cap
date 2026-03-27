@@ -27,7 +27,7 @@ tracing.workspace = true
 device_query = "2.1.0"
 image = "0.25.2"
 either = "1.13.0"
-tracing-subscriber = { version = "0.3.19", features = ["env-filter"] }
+tracing-subscriber = { version = "0.3.20", features = ["env-filter"] }
 relative-path = "1.9.3"
 futures = "0.3.31"
 
